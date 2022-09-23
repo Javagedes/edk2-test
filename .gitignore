@@ -1,3 +1,8 @@
 Build/
 tags/
 *.[od]
+venv/
+__pycache__/
+.vscode/
+
+/Conf/

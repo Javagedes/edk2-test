@@ -25,7 +25,7 @@
 #--*/
 
 BASE_NAME=DeviceIo_DeviceIoBbTest
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\Protocol\DeviceIo\BlackBoxTest\Dependency\Config
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\Protocol\DeviceIo\BlackBoxTest\Dependency\Config
 #
 # Define some useful macros, then include the master Efi toolchain setup
 # file.

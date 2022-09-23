@@ -32,6 +32,7 @@ Abstract:
 #include <Library/EfiTestLib.h>
 #include "Guid.h"
 #include <Protocol/Capsule.h>
+#include "SctLib.h"
 
 #define CAPSULE_FLAGS_INITIATE_RESET   0x00040000 
 

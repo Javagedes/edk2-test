@@ -25,7 +25,7 @@
 #--*/
 
 BASE_NAME=PciRootBridgeIo_PciRootBridgeIoBbTest
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\Protocol\PciRootBridgeIo\BlackBoxTest\Dependency\Config
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\Protocol\PciRootBridgeIo\BlackBoxTest\Dependency\Config
 #
 # Define some useful macros, then include the master Efi toolchain setup
 # file.

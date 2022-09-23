@@ -26,7 +26,7 @@
 
 #PROCESSOR=X64
 BASE_NAME=EfiCompliant_EfiCompliant
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\Generic\EfiCompliant\BlackBoxTest\Dependency\Config
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\Generic\EfiCompliant\BlackBoxTest\Dependency\Config
 
 #
 # Define some useful macros, then include the master Efi toolchain setup

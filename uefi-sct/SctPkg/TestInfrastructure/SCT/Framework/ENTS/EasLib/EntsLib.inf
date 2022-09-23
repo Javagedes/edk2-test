@@ -82,6 +82,7 @@
 
 [LibraryClasses]
   DebugLib
+  SctLib
 
 [Protocols]
   gEfiManagedNetworkServiceBindingProtocolGuid

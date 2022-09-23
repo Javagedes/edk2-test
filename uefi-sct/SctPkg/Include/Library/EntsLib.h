@@ -1640,7 +1640,7 @@ Returns:
 --*/
 ;
 
-UINT64
+/* UINT64
 SctRShiftU64 (
   IN UINT64                         Operand,
   IN UINTN                          Count
@@ -1653,7 +1653,7 @@ SctDivU64x32 (
   IN UINTN                          Divisor,
   OUT UINTN                         *Remainder OPTIONAL
   )
-;
+;*/
 
 EFI_STATUS
 EntsWaitForSingleEvent (

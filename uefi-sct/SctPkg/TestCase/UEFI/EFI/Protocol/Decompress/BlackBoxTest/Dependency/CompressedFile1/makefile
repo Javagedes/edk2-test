@@ -25,7 +25,7 @@
 #--*/
 
 BASE_NAME=Decompress_CompressedFile1
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\Protocol\Decompress\BlackBoxTest\Dependency\CompressedFile1
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\Protocol\Decompress\BlackBoxTest\Dependency\CompressedFile1
 GENBIN=$(EDK_TOOLS_PATH)\Bin\Win32\GenBin.exe
 #
 # Define some useful macros, then include the master Efi toolchain setup

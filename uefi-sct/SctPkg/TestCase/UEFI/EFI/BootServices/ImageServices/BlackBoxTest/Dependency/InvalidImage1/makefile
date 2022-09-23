@@ -26,7 +26,7 @@
 
 
 BASE_NAME=ImageServices_InvalidImage1
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\BootServices\ImageServices\BlackBoxTest\Dependency\InvalidImage1
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\BootServices\ImageServices\BlackBoxTest\Dependency\InvalidImage1
 GENBIN=$(EDK_TOOLS_PATH)\Bin\Win32\GenBin.exe
 
 #

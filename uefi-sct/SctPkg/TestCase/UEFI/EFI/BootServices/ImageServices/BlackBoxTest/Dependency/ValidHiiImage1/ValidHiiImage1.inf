@@ -48,3 +48,7 @@
 [LibraryClasses]
   UefiApplicationEntryPoint
   SctLib
+  EfiTestLib
+
+[Protocols]
+  gEfiTestProfileLibraryGuid

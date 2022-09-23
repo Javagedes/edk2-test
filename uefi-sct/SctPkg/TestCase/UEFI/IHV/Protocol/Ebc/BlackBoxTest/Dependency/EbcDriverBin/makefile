@@ -26,7 +26,7 @@
 #--*/
 
 BASE_NAME=Ebc_EbcDriver
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\IHV\Protocol\Ebc\BlackBoxTest\Dependency\EbcDriverBin
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\IHV\Protocol\Ebc\BlackBoxTest\Dependency\EbcDriverBin
 GENBIN=$(EDK_TOOLS_PATH)\Bin\Win32\GenBin
 #
 # Define some useful macros, then include the master Efi toolchain setup

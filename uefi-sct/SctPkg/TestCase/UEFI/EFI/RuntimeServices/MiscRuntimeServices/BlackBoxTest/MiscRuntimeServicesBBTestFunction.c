@@ -24,7 +24,6 @@ Abstract:
 
 --*/
 
-#include "SctLib.h"
 #include "MiscRuntimeServicesBBTestMain.h"
 
 /**

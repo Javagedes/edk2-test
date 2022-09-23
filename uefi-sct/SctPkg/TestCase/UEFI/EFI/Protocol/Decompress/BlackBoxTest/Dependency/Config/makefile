@@ -25,7 +25,7 @@
 #--*/
 
 BASE_NAME=Decompress_DecompressBbTest
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\Protocol\Decompress\BlackBoxTest\Dependency\Config
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\Protocol\Decompress\BlackBoxTest\Dependency\Config
 
 #
 # Define some useful macros, then include the master Efi toolchain setup

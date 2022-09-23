@@ -25,7 +25,7 @@
 #--*/
 
 BASE_NAME=ImageServices_InvalidImage4
-SOURCE_DIR=$(WORKSPACE)\SctPkg\TestCase\UEFI\EFI\BootServices\ImageServices\BlackBoxTest\Dependency\InvalidImage4
+SOURCE_DIR=$(WORKSPACE)\uefi-sct\SctPkg\TestCase\UEFI\EFI\BootServices\ImageServices\BlackBoxTest\Dependency\InvalidImage4
 GENBIN=$(EDK_TOOLS_PATH)\Bin\Win32\GenBin.exe
 #
 # Define some useful macros, then include the master Efi toolchain setup

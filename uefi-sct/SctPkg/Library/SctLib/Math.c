@@ -49,6 +49,8 @@ SctDivU64x32 (
   OUT UINTN                         *Remainder OPTIONAL
   )
 {
+  ASSERT(Divisor != 0);
+
   if (Remainder != NULL) {
     *Remainder = Dividend % Divisor;
   }

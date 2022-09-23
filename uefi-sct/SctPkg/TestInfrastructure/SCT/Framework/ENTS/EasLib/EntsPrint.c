@@ -24,6 +24,7 @@ Abstract:
 
 --*/
 #include "Efi.h"
+#include "SctLib.h"
 #include <Library/EntsLib.h>
 
 #define LEFT_JUSTIFY  0x01
